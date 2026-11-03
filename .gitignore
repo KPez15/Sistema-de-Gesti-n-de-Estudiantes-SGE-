@@ -1,0 +1,16 @@
+
+# Archivos generados por NetBeans
+/build/
+/dist/
+
+# Configuración local de NetBeans
+/nbproject/private/
+
+# Archivos compilados de Java
+*.class
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
